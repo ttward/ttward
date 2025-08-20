@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+- I'm interested in learning more about C++, Python, and Java.
+- I hope to learn more about computers.
+- I'm currently majoring in Computer Science.
+- My favorite hobby is playing video games.
+
 <!--
 **ttward/ttward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I want to learn more C++, Python, and Java.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
